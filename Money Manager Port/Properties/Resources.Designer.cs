@@ -123,6 +123,26 @@ namespace Money_Manager_Port.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap GoalsPage {
+            get {
+                object obj = ResourceManager.GetObject("GoalsPage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap GoalsPage1 {
+            get {
+                object obj = ResourceManager.GetObject("GoalsPage1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap HamburgerButtonOn {
             get {
                 object obj = ResourceManager.GetObject("HamburgerButtonOn", resourceCulture);
@@ -173,6 +193,16 @@ namespace Money_Manager_Port.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap IncomePage {
+            get {
+                object obj = ResourceManager.GetObject("IncomePage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap MinimizeButtonOn {
             get {
                 object obj = ResourceManager.GetObject("MinimizeButtonOn", resourceCulture);
@@ -196,6 +226,66 @@ namespace Money_Manager_Port.Properties {
         internal static System.Drawing.Bitmap MinimizeButtonStandard {
             get {
                 object obj = ResourceManager.GetObject("MinimizeButtonStandard", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ReportsPage {
+            get {
+                object obj = ResourceManager.GetObject("ReportsPage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ReportsPage1 {
+            get {
+                object obj = ResourceManager.GetObject("ReportsPage1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ReportsPage2 {
+            get {
+                object obj = ResourceManager.GetObject("ReportsPage2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ReportsPage3 {
+            get {
+                object obj = ResourceManager.GetObject("ReportsPage3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ReportsPage4 {
+            get {
+                object obj = ResourceManager.GetObject("ReportsPage4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ReportsPage5 {
+            get {
+                object obj = ResourceManager.GetObject("ReportsPage5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

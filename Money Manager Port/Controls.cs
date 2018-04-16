@@ -191,6 +191,7 @@ namespace Money_Manager_Port
             ItemImage.Location = new Point(2, -2);
             ItemImage.Size = new Size(40, 40);
             Size = new Size(283, 35);
+            Cursor = Cursors.Hand;
             BackColor = Color.FromArgb(6, 19, 40);
             Controls.Add(CurrentItem);
             Controls.Add(ItemText);

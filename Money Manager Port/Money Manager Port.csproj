@@ -127,5 +127,32 @@
   <ItemGroup>
     <None Include="Resources\BudgetPage.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReportsPage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReportsPage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoalsPage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IncomePage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReportsPage2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReportsPage3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReportsPage4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReportsPage5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoalsPage1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

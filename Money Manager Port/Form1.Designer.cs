@@ -55,7 +55,7 @@
             // hamburgerItem5
             // 
             this.hamburgerItem5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(19)))), ((int)(((byte)(40)))));
-            this.hamburgerItem5.HamburgerItemImage = null;
+            this.hamburgerItem5.HamburgerItemImage = global::Money_Manager_Port.Properties.Resources.ReportsPage5;
             this.hamburgerItem5.HamburgerItemText = "Αναφορές";
             this.hamburgerItem5.HamburgerToolTip = null;
             this.hamburgerItem5.IsFirstItem = System.Drawing.Color.Transparent;
@@ -67,7 +67,7 @@
             // hamburgerItem4
             // 
             this.hamburgerItem4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(19)))), ((int)(((byte)(40)))));
-            this.hamburgerItem4.HamburgerItemImage = null;
+            this.hamburgerItem4.HamburgerItemImage = global::Money_Manager_Port.Properties.Resources.GoalsPage1;
             this.hamburgerItem4.HamburgerItemText = "Στόχοι";
             this.hamburgerItem4.HamburgerToolTip = null;
             this.hamburgerItem4.IsFirstItem = System.Drawing.Color.Transparent;
@@ -79,7 +79,7 @@
             // hamburgerItem3
             // 
             this.hamburgerItem3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(19)))), ((int)(((byte)(40)))));
-            this.hamburgerItem3.HamburgerItemImage = null;
+            this.hamburgerItem3.HamburgerItemImage = global::Money_Manager_Port.Properties.Resources.IncomePage;
             this.hamburgerItem3.HamburgerItemText = "Εισόδημα";
             this.hamburgerItem3.HamburgerToolTip = null;
             this.hamburgerItem3.IsFirstItem = System.Drawing.Color.Transparent;
@@ -91,7 +91,7 @@
             // hamburgerItem2
             // 
             this.hamburgerItem2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(19)))), ((int)(((byte)(40)))));
-            this.hamburgerItem2.HamburgerItemImage = global::Money_Manager_Port.Properties.Resources.BudgetPage;
+            this.hamburgerItem2.HamburgerItemImage = ((System.Drawing.Image)(resources.GetObject("hamburgerItem2.HamburgerItemImage")));
             this.hamburgerItem2.HamburgerItemText = "Διαχείριση Μπάτζετ";
             this.hamburgerItem2.HamburgerToolTip = null;
             this.hamburgerItem2.IsFirstItem = System.Drawing.Color.Transparent;
